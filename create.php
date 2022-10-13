@@ -2,8 +2,8 @@
 /*
       Copyright  by dadabayev.uz
 */
-$merchant_id = '23250'; // kassa id
-$secret_word = 'gl]u3MZ6FC!98gP'; // kassa secret word 1
+$merchant_id = ''; // kassa id
+$secret_word = ''; // kassa secret word 1
 $order_id = '100';  // order id increment
 $order_amount = '200.11'; // order amount
 $currency = 'RUB'; // currency
