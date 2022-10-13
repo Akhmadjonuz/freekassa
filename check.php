@@ -9,8 +9,8 @@ if (!$connect) {
   echo "Ulanildi</br>";
 }
 
-$merchant_id = '23250'; // kassa id
-$merchant_secret = '}3{W$gn-1q1h+BC'; // kassa secret word 2
+$merchant_id = ''; // kassa id
+$merchant_secret = ''; // kassa secret word 2
 
 function getIP()
 {
